@@ -1,6 +1,6 @@
 # Lyriks - Music Player
 
-Develop an elegant React.js Music Application. 
+Developed an elegant React.js Music Application. 
 
 
 # Contributing
