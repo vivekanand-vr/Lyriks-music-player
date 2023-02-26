@@ -7,7 +7,9 @@
 
 # Technologies Used : 
 
-1. React.js (Next.js) 2. APIs:
+1. React.js (Next.js)
+
+2. APIs:
 
             a. Used Shazam API to gather music data b. Use Shazam Core API to gather artist details and recommended tracks
 
