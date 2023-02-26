@@ -1,15 +1,17 @@
 # Lyriks - Music Player
+ 
 
-Developed an elegant React.js Music Application. 
+![Lyriks](https://user-images.githubusercontent.com/116813193/221399161-25329658-7d48-42a2-9086-d07960a3b57a.png)
+
 
 
 # Technologies Used : 
 
 1. React.js (Next.js) 2. APIs:
 
-      a. Used Shazam API to gather music data b. Use Shazam Core API to gather artist details and recommended tracks
+            a. Used Shazam API to gather music data b. Use Shazam Core API to gather artist details and recommended tracks
 
-      c. Used IP Geolocation API to get the user's location
+            c. Used IP Geolocation API to get the user's location
 
 3. Libraries: used Redux Toolkit to keep the API calls organized
 
