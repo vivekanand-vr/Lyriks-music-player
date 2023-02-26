@@ -7,15 +7,11 @@ Developed an elegant React.js Music Application.
 
 1. React.js (Next.js) 2. APIs:
 
-a. Use Shazam API to gather music data b. Use Shazam Core API to gather artist details and recommended tracks
+      a. Used Shazam API to gather music data b. Use Shazam Core API to gather artist details and recommended tracks
 
-c. Use IP Geolocation API to get the user's location
+      c. Used IP Geolocation API to get the user's location
 
-3. Libraries:
-
-a. You may use any libraries and packages you might need in your code b. You may also use any UI kit you prefer (Material UI, Tailwind, Plain CSS...)
-
-c. You may use Redux Toolkit to keep the API calls organized
+3. Libraries: used Redux Toolkit to keep the API calls organized
 
 # Functionalities
 
@@ -27,9 +23,7 @@ c. You may use Redux Toolkit to keep the API calls organized
 
 5. Artists Page - Users can see a list of the most famous artists
 
-6. Artist Details Page - Users can see additional information about the artist and
-
-all of their most popular songs.
+6. Artist Details Page - Users can see additional information about the artist and all of their most popular songs.
 
 7. Song Details Page -Users can see additional information about the song, such as the song's music video and lyrics and a list of similar songs.
 
